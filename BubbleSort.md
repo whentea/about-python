@@ -1,6 +1,5 @@
-Bubble Sort  
-  
-  
+# Bubble  
+
 ```
 def bubble_sort(alist):
     for i in range(len(alist) - 1, 0, -1):
